@@ -14,7 +14,7 @@ An end-to-end Machine Learning and Generative AI application designed to predict
 
 ---
 
-## 📊 Model Performance & Comparison
+## Model Performance & Comparison
 
 Based on our validation and test benchmarks using the Brazilian Medical Appointment No-Shows dataset (2016), the models achieve a general accuracy ranging between **72% and 77%**, striking a solid balance for clinic operational planning and empty-slot reduction:
 
